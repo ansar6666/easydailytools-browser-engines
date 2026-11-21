@@ -1,0 +1,22 @@
+{
+  "name": "easydailytools-browser-engines",
+  "version": "1.0.0",
+  "description": "Zero-dependency client-side JavaScript engines for lossless JPEG/PNG 300-600 DPI patching, EXIF/GPS metadata scrubbing, and RGB tone curves with .CUBE 3D LUT export.",
+  "homepage": "https://easydailytools.com/",
+  "license": "MIT",
+  "keywords": [
+    "dpi",
+    "exif",
+    "metadata",
+    "privacy",
+    "photo-curves",
+    "cube-lut",
+    "image-processing",
+    "client-side",
+    "zero-dependency"
+  ],
+  "scripts": {
+    "test": "node test/smoke.test.js"
+  },
+  "author": "EasyDailyTools (https://easydailytools.com)"
+}
